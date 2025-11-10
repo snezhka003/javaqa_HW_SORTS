@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/snezhka003/javaqa_HW_SORTS/actions/workflows/maven.yml/badge.svg)](https://github.com/snezhka003/javaqa_HW_SORTS/actions/workflows/maven.yml)
+
 ## Задание 1 (обязательное)
 
 Перед вами класс, описывающий билет на самолёт. Точнее, предложение авиакомпании по перелёту:
